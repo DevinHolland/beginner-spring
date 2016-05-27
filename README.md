@@ -1,4 +1,4 @@
-# beginner-spring-boot
+# beginner-spring
 
 ## 1. Set up Main Config
 1. Annotate class with `@Configuration`
